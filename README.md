@@ -10,25 +10,34 @@ Educational Portal Project For INSIGHT.
 ## Project Status
 
 1. 09/10/2018
-1.1 setup virtual machine
-1.2 installed wordpress
-1.3 selected a theme
-1.4 imported dummy content
-1.5 4hr work, 29 days remaining
+	1. setup virtual machine
+	2. installed wordpress
+	3. selected a theme
+	4. imported dummy content
+	5. 4hr work, 29 days remaining
 2. 11/10/2018
-2.1 tried to customize the theme
-2.2 Decided to extend the theme
-2.3 Created a child theme from kids education
-2.4 6hr work, 28 days remaining
+	1. tried to customize the theme
+	2. Decided to extend the theme
+	3. Created a child theme from kids education
+	4. 6hr work, 28 days remaining
+3. 12/10/2018
+	1. made the child theme fully functional
+	2. feature category section overrided
+	3. installed learnpress plugin for LMS management
+	4. 4hr work, 27 days remaining
 
 ## Goals Tomorrow
-1.1 make the child theme fully functional
-1.2 Attempt to override featured category section
+
+1. Overview Learnpress
+2. Integrate Learnpress Course with TP Education Course
+3. Learnpress and H5P support
+
 
 ## Project Requirements
 
 1. Logo for SPIN-LEARN ( like Kids Theme )
 2. Caption and Background Images for Slider 
 3. Finding the major content categories
-4. Distinction between course(home schooling) and class(assisted learning)5. Category >> Class >> Lesson >> Activity ( one example )
+4. Overall site structure needs to be finalized
+5. Distinction between course(home schooling) and class(assisted learning)5. Category >> Class >> Lesson >> Activity ( one example )
 

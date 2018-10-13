@@ -25,12 +25,23 @@ Educational Portal Project For INSIGHT.
 	2. feature category section overrided
 	3. installed learnpress plugin for LMS management
 	4. 4hr work, 27 days remaining
+4. 13/10/2018
+	1. learnpress,gamipress,h5p
+	2. learnpress-gamipress integration.
+	3. gamipress-h5p integration
+	4. How they can be glued together?
+	5. 6hr work, 26 days remaining
 
 ## Goals Tomorrow
 
-1. Overview Learnpress
-2. Integrate Learnpress Course with TP Education Course
-3. Learnpress and H5P support
+1. How popular courses can be displayed
+2. Adding Widget Area to Home Page
+3. Copying the styling of features section.
+
+
+1. ~Overview Learnpress~
+2. ~Integrate Learnpress Course with TP Education Course~
+3. ~Learnpress and H5P support~
 
 
 ## Project Requirements

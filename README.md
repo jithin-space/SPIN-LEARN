@@ -31,12 +31,22 @@ Educational Portal Project For INSIGHT.
 	3. gamipress-h5p integration
 	4. How they can be glued together?
 	5. 6hr work, 26 days remaining
+5. 15/10/2018
+	1. Popular courses from Learnpress displayed
+	2. Concern about the extensibility of wordpress
+	3. Looks on opigno & its h5p support
+	4. Wordpress as their site & opigno as their LMS platform
+	5. 6hr work, 25 days remaining.
 
 ## Goals Tomorrow
 
-1. How popular courses can be displayed
-2. Adding Widget Area to Home Page
-3. Copying the styling of features section.
+1. install and configure opigno
+2. understand the basics & take an overview
+
+
+1. ~How popular courses can be displayed~
+2. ~Adding Widget Area to Home Page~
+3. ~Copying the styling of features section~
 
 
 1. ~Overview Learnpress~

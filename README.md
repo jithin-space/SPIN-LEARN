@@ -37,11 +37,22 @@ Educational Portal Project For INSIGHT.
 	3. Looks on opigno & its h5p support
 	4. Wordpress as their site & opigno as their LMS platform
 	5. 6hr work, 25 days remaining.
+6. 17/10/2018
+	1. installed and configured opigno
+	2. took an overview
+	3. some administration tasks
+	4. 6hr work, 24 days remaining
 
 ## Goals Tomorrow
 
-1. install and configure opigno
-2. understand the basics & take an overview
+1. Define the Taxonomy
+2. Class, Course , Lesson & Course Categories
+3. Prepare classes for two students
+4. Prepare two courses for each class
+5. Identify the resource materials
+
+1. ~install and configure opigno~
+2. ~understand the basics & take an overview~
 
 
 1. ~How popular courses can be displayed~

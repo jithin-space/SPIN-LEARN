@@ -42,13 +42,45 @@ Educational Portal Project For INSIGHT.
 	2. took an overview
 	3. some administration tasks
 	4. 6hr work, 24 days remaining
+7. 19/10/2018
+	1. prepared classes & courses
+	2. Identified two students & basic set of courses
+	3. went through SPIN IEP & compared with our IEP
+	4. 5hr work, 23 days remaining
+
 
 ## Goals Tomorrow
 
+1. Refine the list
+
+	1. English
+		1. Verbs
+		2. Functional Words
+	2. Mathematics
+		1. Numbers
+		2. Odd/Even
+		3. Operations
+		4. Money
+	3. General Knowledge
+		1. Human Body
+		2. Animals
+		3. Rules
+		4. Plants
+		5. Objects
+		6. Food
+	4. Comprehension
+		1. position
+		2. relation
+		3. collection
+		4. grouping
+		5. problem solving
+	5. Malayalam
+	
+
 1. Define the Taxonomy
 2. Class, Course , Lesson & Course Categories
-3. Prepare classes for two students
-4. Prepare two courses for each class
+3. ~Prepare classes for two students~
+4. ~Prepare two courses for each class~
 5. Identify the resource materials
 
 1. ~install and configure opigno~

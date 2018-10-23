@@ -47,29 +47,35 @@ Educational Portal Project For INSIGHT.
 	2. Identified two students & basic set of courses
 	3. went through SPIN IEP & compared with our IEP
 	4. 5hr work, 23 days remaining
-
+8. 22/10/2018
+	1. redefined courses and classes
+	2. Downloaded contents from H5P
+	3. Grouped them and created a course
+	4. 5hr work, 22 days remaining
 
 ## Goals Tomorrow
 
 1. Refine the list
 
-	1. English
-		1. Verbs
-		2. Functional Words
-	2. Mathematics
-		1. Numbers
-		2. Odd/Even
-		3. Operations
-		4. Money
-	3. General Knowledge
-		1. Human Body
-		2. Animals
-		3. Rules
+	1. English-class
+		1. Verbs-course
+		2. Functional Words-course
+	2. Mathematics-class
+		1. Numbers-course
+		2. Odd/Even-course
+		3. Operations-course
+		4. Money- course
+	3. General Knowledge-class
+		1. Human Body-course
+		2. Animals-course
+		3. Rules-course
 		4. Plants
 		5. Objects
 		6. Food
-	4. Comprehension
-		1. position
+		7. Fruits
+			1. lesson1: Berries
+	4. Comprehension-class
+		1. position-
 		2. relation
 		3. collection
 		4. grouping
@@ -77,8 +83,13 @@ Educational Portal Project For INSIGHT.
 	5. Malayalam
 	
 
-1. Define the Taxonomy
-2. Class, Course , Lesson & Course Categories
+1. Define the Taxonomy & course categories
+2. structure the berries lesson
+3. create the next lesson
+4. score , badge and other options
+
+
+2. ~Class, Course , Lesson & Course Categories~
 3. ~Prepare classes for two students~
 4. ~Prepare two courses for each class~
 5. Identify the resource materials

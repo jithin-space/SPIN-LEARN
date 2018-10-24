@@ -52,6 +52,11 @@ Educational Portal Project For INSIGHT.
 	2. Downloaded contents from H5P
 	3. Grouped them and created a course
 	4. 5hr work, 22 days remaining
+9. 24/10/2018
+	1. created two lessons
+	2. final structure confirmed
+	3. certificates generated
+	4. 5hr work, 21 days remaining
 
 ## Goals Tomorrow
 
@@ -81,12 +86,15 @@ Educational Portal Project For INSIGHT.
 		4. grouping
 		5. problem solving
 	5. Malayalam
+
+1. Start structuring spin_learn platform
+2. Define sections , dummy contents etc
 	
 
-1. Define the Taxonomy & course categories
-2. structure the berries lesson
-3. create the next lesson
-4. score , badge and other options
+1. ~define the Taxonomy & course categories~
+2. ~structure the berries lesson~
+3. ~create the next lesson~
+4. ~score , badge and other options~
 
 
 2. ~Class, Course , Lesson & Course Categories~

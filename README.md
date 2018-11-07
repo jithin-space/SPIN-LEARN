@@ -57,6 +57,10 @@ Educational Portal Project For INSIGHT.
 	2. final structure confirmed
 	3. certificates generated
 	4. 5hr work, 21 days remaining
+10. 07/11/2018
+	1. adding raw contents from lms
+	2. basic interface customized
+	3. 4hr work , 20 days remaining
 
 ## Goals Tomorrow
 
@@ -71,14 +75,24 @@ Educational Portal Project For INSIGHT.
 		3. Operations-course
 		4. Money- course
 	3. General Knowledge-class
-		1. Human Body-course
-		2. Animals-course
-		3. Rules-course
+		1. Human Body
+			1. lessons 1
+			2. questions 4
+			3. structuring pending
+		2. Animals
+		3. Rules
 		4. Plants
 		5. Objects
 		6. Food
 		7. Fruits
 			1. lesson1: Berries
+		8. Occupation
+			1. lessons 2 ( overview, agriculture )
+			2. questions ( 4 + 1 )
+			3. structuring pending
+		9. Family
+		10. Country
+
 	4. Comprehension-class
 		1. position-
 		2. relation
